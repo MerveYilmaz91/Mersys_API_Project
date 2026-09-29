@@ -31,7 +31,7 @@ public class Authentication {
                         .extract()
                         .response();
 
-        token = response.getHeader("Authorization");
+        token = response.jsonPath().getString("access_token");
 
         System.out.println("Token başarıyla alındı.");
     }

@@ -19,6 +19,6 @@ public class BaseTest {
 
         request = given()
                 .contentType("application/json")
-                .header("Authorization", Authentication.token);
+                .header("Authorization", "Bearer " + Authentication.token);
     }
 }
