@@ -1,4 +1,4 @@
-package Campus.Tests;
+package Campus.Tests.US110;
 
 import Campus.Utilities.BaseTest;
 import io.restassured.response.Response;

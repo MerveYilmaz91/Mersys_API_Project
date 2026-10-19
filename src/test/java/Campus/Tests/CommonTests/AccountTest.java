@@ -1,4 +1,4 @@
-package Campus.Tests;
+package Campus.Tests.CommonTests;
 
 import Campus.Utilities.BaseTest;
 import Campus.Utilities.Endpoints;
