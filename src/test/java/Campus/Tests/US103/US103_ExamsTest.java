@@ -1,4 +1,4 @@
-package Campus.Tests;
+package Campus.Tests.US103;
 import Campus.Utilities.BaseTest;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;

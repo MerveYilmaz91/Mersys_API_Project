@@ -1,4 +1,4 @@
-package Campus.Tests;
+package Campus.Tests.CommonTests;
 
 import Campus.Utilities.Authentication;
 import org.testng.Assert;
